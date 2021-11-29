@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="security1.quest1/src/main/java"/>
+	<classpathentry kind="src" path="security1.quest1/src/test/java"/>
+	<classpathentry kind="src" path="security1.quest2/src/main/java"/>
+	<classpathentry kind="src" path="security1.quest2/src/test/java"/>
+	<classpathentry kind="src" path="security1.quest3/src/main/java"/>
+	<classpathentry kind="src" path="security1.quest3/src/test/java"/>
+	<classpathentry kind="src" path="security2.quest1/src/main/java"/>
+	<classpathentry kind="src" path="security2.quest1/src/test/java"/>
+	<classpathentry kind="src" path="securitydemo/.mvn/wrapper"/>
+	<classpathentry kind="src" path="securitydemo/src/main/java"/>
+	<classpathentry kind="src" path="securitydemo/src/test/java"/>
+	<classpathentry kind="src" path="springbootsecurity/.mvn/wrapper"/>
+	<classpathentry kind="src" path="springbootsecurity/src/main/java"/>
+	<classpathentry kind="src" path="springbootsecurity/src/test/java"/>
+	<classpathentry kind="src" path="SpringSecurity/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringSecurity/src/main/java"/>
+	<classpathentry kind="src" path="SpringSecurity/src/test/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
